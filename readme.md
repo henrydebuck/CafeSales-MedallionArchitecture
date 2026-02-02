@@ -1,5 +1,7 @@
 # Python Data Warehouse
 
+Personal project where I create an ETL with the medallion architecture for training in Python. Also, I've made a mini-dashboard with dash and plotly.
+
 ## Technologies Used
 
 - **Docker**
@@ -10,7 +12,6 @@
    - python-dotenv
    - plotly
    - dash
-   - jupyter
 
 ## Docker Setup
 
