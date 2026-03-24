@@ -21,6 +21,8 @@ Personal project where I create an ETL with the medallion architecture for train
 docker compose up -d
 ```
 
+You do defined a docker here, maybe add into the readme a section to explain to create a python env for the requirements.
+
 ## Python Scripts
 
 **Ensure PostgreSQL service is running before executing scripts**
